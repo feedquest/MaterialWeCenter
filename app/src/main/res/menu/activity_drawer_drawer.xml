@@ -17,10 +17,10 @@
             android:id="@+id/nav_topic"
             android:icon="@drawable/ic_whatshot_grey600_48dp"
             android:title="@string/topic" />
-        <item
+ <!--       <item
             android:id="@+id/nav_message"
             android:icon="@drawable/ic_chat_grey600_48dp"
-            android:title="@string/inbox" />
+            android:title="@string/inbox" />-->
         <item
             android:id="@+id/nav_search"
             android:icon="@drawable/ic_search_grey600_48dp"

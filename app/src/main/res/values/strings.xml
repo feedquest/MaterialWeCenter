@@ -1,7 +1,7 @@
 <resources>
 
     <!-- 应用名称 -->
-    <string name="app_name">Material WeCenter</string>
+    <string name="app_name">圣经问与答</string>
 
     <!--Login Action-->
 
@@ -26,8 +26,8 @@
     <!--Settings-->
     <string name="about">关于</string>
     <string name="version">版本号</string>
-    <string name="github_repo">GitHub项目地址</string>
-    <string name="github_url">https://github.com/ZhangZhenghao/Material-WeCenter</string>
+    <string name="github_repo">圣经问与答网址</string>
+    <string name="github_url">https://sjwyd.com</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 

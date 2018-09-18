@@ -1,4 +1,4 @@
-package com.sine_x.material_wecenter;
+package com.langtaosha.sjwyd;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

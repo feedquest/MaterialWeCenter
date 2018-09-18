@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.sine_x.material_wecenter.controller.activity.PostActivity">
+    tools:context="com.langtaosha.sjwyd.controller.activity.PostActivity">
     <item android:id="@+id/action_undo"
         android:title="撤销"
         android:icon="@drawable/ic_undo_white_24dp"
